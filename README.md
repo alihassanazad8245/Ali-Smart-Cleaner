@@ -56,7 +56,7 @@ You don't need to install a complicated setup.
 Open **Command Prompt**, **PowerShell**, or **Windows Terminal** and run:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/alihassanazad8245/Ali-Smart-Cleaner.git
 ```
 
 ### 2. Open the Project Folder
@@ -82,7 +82,7 @@ The cleaner will start and display the main menu.
 If Git is already installed, the basic workflow is simply:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/alihassanazad8245/Ali-Smart-Cleaner.git
 cd Ali-Smart-Cleaner
 cleaner.bat
 ```
