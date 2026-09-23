@@ -248,7 +248,7 @@ cd Ali-Smart-Cleaner
 Run the application:
 
 ```text
-Ali-Smart-Cleaner.bat
+Cleaner.bat
 ```
 
 You can also simply double-click the `.bat` file from Windows File Explorer.
